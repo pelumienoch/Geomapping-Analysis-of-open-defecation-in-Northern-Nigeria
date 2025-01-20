@@ -1,6 +1,7 @@
 # Geomapping-Analysis-of-open-defecation-in-Northern-Nigeria
  
 Aim and Specific Objectives of the Research Project
+
 The main aim of this research is to identify possible strategies that community members in Northern 
 Nigeria can adopt to eliminate open defecation in their communities. To achieve this aim, the 
 following objectives are outlined for the study:
